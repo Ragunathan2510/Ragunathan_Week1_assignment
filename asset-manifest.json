@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ragunathan_Week1_assignment/static/css/main.52968b71.css",
+    "main.js": "/Ragunathan_Week1_assignment/static/js/main.ab5643b9.js",
+    "static/js/453.ed3810f9.chunk.js": "/Ragunathan_Week1_assignment/static/js/453.ed3810f9.chunk.js",
+    "static/media/R.jpg": "/Ragunathan_Week1_assignment/static/media/R.caf2da422096f2f912c8.jpg",
+    "index.html": "/Ragunathan_Week1_assignment/index.html",
+    "main.52968b71.css.map": "/Ragunathan_Week1_assignment/static/css/main.52968b71.css.map",
+    "main.ab5643b9.js.map": "/Ragunathan_Week1_assignment/static/js/main.ab5643b9.js.map",
+    "453.ed3810f9.chunk.js.map": "/Ragunathan_Week1_assignment/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52968b71.css",
+    "static/js/main.ab5643b9.js"
+  ]
+}
